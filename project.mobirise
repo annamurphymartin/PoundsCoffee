@@ -417,10 +417,24 @@
           "_name": "testimonials3",
           "testimonial": [
             {
-              "text": "\"I usually like cream and sugar in my coffee, but when I have the Guatemala roast I don’t need any cream or sugar.\"",
+              "text": "<p>\"This is the best coffee we've ever had, and we love getting a fresh bag in the mail every month. Their customer service is equally as impressive. In the past, there was always coffee left in our pot, but now we fight over the last drop!!\"</p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face3.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Melissa D.&nbsp;",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p>\"I usually like cream and sugar in my coffee, but when I have the Guatemala roast I don’t need any cream or sugar.\"</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face1.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -431,21 +445,7 @@
               "authorBio": "User"
             },
             {
-              "text": "<p>“Sitting down with a cup of Pounds Coffee every morning makes me more excited to start my day.\"</p>",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face1.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              },
-              "authorName": "Anna-Murphy M.",
-              "authorBio": "User"
-            },
-            {
-              "text": "\"Pounds Coffee is not only delicious but carries an incredible message of making the best moments over your cup of coffee in the mornings.\"&nbsp;",
+              "text": "\"Pounds Coffee is not only delicious but carries an incredible message of making the best moments over your cup of coffee in the mornings. It serves as a sweet reminder to enjoy the little things throughout your day\"&nbsp;",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face2.jpg",
